@@ -12,8 +12,8 @@ function clues() {
 // add code for displaying rest of the names and the hints.
     fill("white")
     text("C U T N I F O N", 700, 145)
-    text("A T A D A S B A", 200, 375)
+    text("A T A D A S B A", 150, 280)
     fill("lightblue")
     text("Hint: Performs a specific task !!", 700, 165)
-    text("Hint: Stores important information in multiplayer games !!", 200, 400)
+    text("Hint: Stores important information in multiplayer games !!", 150, 300)
 }
